@@ -26,7 +26,7 @@ These scripts based on a script by Oscar Gonzales (MPI-CBG) generated zip files 
 
 ## 	SPIM_copy_rename_vascularDATA_
 
-This plugin was applied to take the planes saved as individual files and merge them to one stack per timepoint & angle.
+This plugin was applied to take the planes saved as individual files by the stitching and merge them to one stack per timepoint & angle.
 
 
 
